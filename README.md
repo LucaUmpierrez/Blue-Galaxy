@@ -1,2 +1,3 @@
 # Blue-Galaxy
-Pagina echa para un deber del liceo.
+A website made for entertainment. 
+You can use the code to practice css and html
